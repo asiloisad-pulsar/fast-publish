@@ -1,7 +1,7 @@
 {
   "name": "fast-publish",
   "description": "Publish Pulsar packages via Git tags or PPM",
-  "repository": "https://github.com/asiloisad/pulsar-fast-publish",
+  "repository": "https://github.com/asiloisad-pulsar/fast-publish",
   "keywords": [
     "publish",
     "github"
