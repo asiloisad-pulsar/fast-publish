@@ -2,6 +2,9 @@
 
 Publish Pulsar packages via Git tags or PPM. Bump version, commit, tag, and push with a single command.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [fast-publish](https://github.com/lumine-code/fast-publish).
+
 ## Features
 
 - **Git publish**: Bump version, commit, tag, and push to origin.
